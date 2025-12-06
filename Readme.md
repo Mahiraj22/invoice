@@ -1,6 +1,6 @@
 # Invoice QC Service - Invoice Extraction & Quality Control System
 
-**Author**: Aman  
+**Author**: Mahi Raj  
 **Role**: Student
 **Version**: 1.0.0  
 **Date**: December 2025
@@ -517,9 +517,9 @@ Feedback is welcome!
 
 ## 📧 Contact
 
-**Name**: Aman Nath Jha  
-**Email**: amannathjha14@gmail.com  
-**GitHub**: https://github.com/incursio-xd  
-**LinkedIn**: www.linkedin.com/in/incursio
+**Name**: Mahi Raj  
+**Email**: mahisingh16945@gmail.com  
+**GitHub**: https://github.com/Mahiraj22  
+**LinkedIn**: https://www.linkedin.com/in/mahiraj22/
 
 ---
