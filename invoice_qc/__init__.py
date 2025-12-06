@@ -1,5 +1,5 @@
 __version__ = "1.0.0"
-__author__ = "Aman Nath Jha"
+__author__ = "Mahi Raj"
 
 # Only import what actually exists
 try:
